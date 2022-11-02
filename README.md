@@ -25,6 +25,6 @@ Tecnologias que já utilizei para desenvolver algum projeto.
    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
-[Snake animation](https://github.com/AlexHollSp/AlexHollSp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlexHollSp/AlexHollSp/blob/output/github-contribution-grid-snake.svg)
 
 
