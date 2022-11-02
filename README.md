@@ -24,3 +24,7 @@ Tecnologias que já utilizei para desenvolver algum projeto.
    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
+
+<div>![Snake animation](https://github.com/AlexHollSp/rafaballerini/blob/output/github-contribution-grid-snake.svg)</div>
+
+
