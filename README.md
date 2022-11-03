@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
 ### Fala visitante, beleza! 🤙
 ### Eu sou Alex Holanda e seja bem vindo.
 Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Gamer nas horas vagas. Estou Formando em Ciências Contábeis e colocando como hobby o curso de Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (Uninove).
@@ -6,6 +8,7 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alexhollsp@outlook.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alex_hollsp)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/alexhollsp)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexhollsp/)
 
 <div>
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=AlexHollSp&show_icons=true&theme=tokyonight"/>
@@ -26,5 +29,7 @@ Tecnologias que já utilizei para desenvolver algum projeto.
 </div>
 
 ![Snake animation](https://github.com/AlexHollSp/AlexHollSp/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
 
