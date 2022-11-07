@@ -10,6 +10,7 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/alexhollsp)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexhollsp/)
 
+## Indicadores GitHub
 <div>
   <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=AlexHollSp&show_icons=true&theme=tokyonight"/>
   <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHollSp&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -18,7 +19,6 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
 ## Tecnologias 💻
 Tecnologias que já utilizei para desenvolver algum projeto.
 
-## Indicadores GITHUB
 <div style="display: inline block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
