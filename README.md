@@ -18,6 +18,7 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
 ## Tecnologias 💻
 Tecnologias que já utilizei para desenvolver algum projeto.
 
+## Indicadores GITHUB
 <div style="display: inline block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
