@@ -18,7 +18,6 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
 
 ## Tecnologias 💻
 Tecnologias que já utilizei para desenvolver algum projeto.
-
 <div style="display: inline block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,6 +28,7 @@ Tecnologias que já utilizei para desenvolver algum projeto.
    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
+## Linha do tempo ao desenvolver projetos
 ![Snake animation](https://github.com/AlexHollSp/AlexHollSp/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
