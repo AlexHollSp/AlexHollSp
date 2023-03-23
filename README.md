@@ -4,7 +4,7 @@
 ### Eu sou Alex Holanda e seja bem vindo.
 Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Gamer nas horas vagas. Estou Formando em Ciências Contábeis e colocando como hobby o curso de Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (Uninove).
 
-## Algumas da minhas redes sociais 📱 
+## Algumas das Minhas Redes Sociais 📱 
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alexhollsp@outlook.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alex_hollsp)
 [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/alexhollsp)
@@ -28,7 +28,7 @@ Tecnologias que já utilizei para desenvolver algum projeto.
    <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
-## Linha do tempo ao desenvolver projetos
+## Linha do Tempo ao Desenvolver Projetos
 ![Snake animation](https://github.com/AlexHollSp/AlexHollSp/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
