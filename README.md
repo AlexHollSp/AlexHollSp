@@ -21,14 +21,15 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
 
 </p>
 <p align="left">
-  💌 Se precisar, fale comigo: ⤵️
+  
+  <h1>💌 Se precisar, fale comigo: ⤵️</h1>
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alexhollsp@hotmail.com" /></a>
+  <a href="mailto:alexhollsp@hotmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexhollsp/" /></a>
+  <a href="https://www.linkedin.com/in/alexhollsp/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   
 </p>
