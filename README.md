@@ -19,10 +19,6 @@ Um pouco sobre mim, sou entusiasta de Tecnologia, Finanças quantitativas e Game
   <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
-<h1>Linha do Tempo ao Desenvolver Projetos</h1>
-![Snake animation](https://github.com/AlexHollSp/AlexHollSp/blob/output/github-contribution-grid-snake.svg)
-
-
 </p>
 <p align="left">
   💌 Se precisar, fale comigo: ⤵️
