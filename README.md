@@ -24,7 +24,7 @@
 </p>
 <p align="left">
   
-  <h1>💌 Se precisar, fale comigo: ⤵️</h1>
+  <h1>Se precisar, fale comigo: ⤵️</h1>
 </p>
 
 <p align="left">
