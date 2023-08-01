@@ -17,6 +17,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,figma,php,linux,aws,powershell,py" />
   </a>  <div style="display: inline block"><br/>
-
 </p>
-<p align="left">
+
