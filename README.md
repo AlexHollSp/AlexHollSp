@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-
 <p align="left"> 
   <h1>Fala visitante, beleza! 🤙</h1>
   <p>E aí, pessoal! Eu sou o Alex Holanda e bora conhecer um pouco sobre mim? Sou viciado em tecnologia, finanças e adoro ser um gamer nas horas vagas.</p>
